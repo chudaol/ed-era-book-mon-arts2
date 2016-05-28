@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#2 клас. Абетка образотворчого мистецтва
+#2 клас. Мова образотворчого мистецтва 
 
 #Тема 1.  Мова графіки та живопису (8 годин)
 

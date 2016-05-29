@@ -10,7 +10,7 @@
 
 Провідними навчальними завданнями стосовно образотворчих знань, умінь і навичок, що проходять через увесь курс у 2 класі, залишаються “форма” і “колір”. Крім того, програмою передбачено опановування композиційними прийомами (на елементарному рівні) у різних видах образотворчого мистецтва.
 <hr>
-
+**Зміст розділу:**
 *	[Тема 1.  Мова графіки та живопису (8 годин)](mova_hrafiky_ta_zhyvopysu.md)
 	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya1.md)
@@ -21,9 +21,7 @@
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya2.md)
 		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya2.md)
 	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv2.md)
-
-**Узагальнення - 1 година**
-
+*	Узагальнення - 1 година
 *	[Тема 3.  Композиційні прийоми у графіці та живописі (9 годин)](kompozytsiini_pryiomy_u_hrafitsi_ta_zhyvopysi.md)
 	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya3.md)
@@ -34,8 +32,7 @@
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya4.md)
 		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya4.md)
 	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
-
-**Узагальнення - 2 години**
+*	Узагальнення - 2 години
 
 
 <div class="js-hypercomments-container">

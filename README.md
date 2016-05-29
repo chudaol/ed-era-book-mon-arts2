@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Зміст розділу
 1. [Звернення до громадськості](#zvernennya)
 2. [Інструкція з використання](#instruction)
@@ -133,5 +135,6 @@
   * [Декоративно-прикладне мистецтво](dodatky/dpa.md)
   * [Архітектура](dodatky/arkhitektura.md)
 
-<div id="hypercomments_widget"></div>
+<div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

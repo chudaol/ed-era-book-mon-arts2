@@ -12,7 +12,7 @@
 
 Крім того, програмою передбачено ознайомлення зі специфікою роботи графічними, живописними та іншими матеріалами й техніками; збагачення засобів композиційної організації площини, ускладнення палітри кольорів.
 <hr>
-
+**Зміст розділу:**
 *	[Тема 1.  У майстернях графіка та живописця (8 годин)](u_maisternyakh_hrafika_ta_zhyvopystsya.md)
 	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya1.md)
@@ -23,9 +23,7 @@
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya2.md)
 		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya2.md)
 	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv2.md)
-
-**Узагальнення - 1 година**
-
+*	Узагальнення - 1 година
 *	[Тема 3.  В гостях у художників: пейзажиста, анімаліста, портретиста, майстра натюрморту (9 годин)](v_hostiakh_u_khudozhnykiv_peizazhysta_animalista_portretysta_maistra_natiurmortu.md)
 	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya3.md)
@@ -36,8 +34,7 @@
 		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya4.md)
 		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya4.md)
 	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
-
-**Узагальнення - 2 години**
+*	Узагальнення - 2 години
 
 
 <div class="js-hypercomments-container">

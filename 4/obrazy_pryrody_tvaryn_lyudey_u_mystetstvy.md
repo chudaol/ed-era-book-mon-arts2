@@ -2,8 +2,7 @@
 
 #Тема 3.  Образи природи, тварин, людей у мистецтві (9 годин)
 
-##Зміст розділу:
-
+**Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)
 	*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya3.md)
 	*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya3.md)

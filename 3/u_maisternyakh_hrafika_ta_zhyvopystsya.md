@@ -2,8 +2,7 @@
 
 Тема 1.  У майстернях графіка та живописця (8 годин)
 
-##Зміст розділу:
-
+**Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
 	*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya1.md)
 	*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya1.md)

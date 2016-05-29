@@ -2,8 +2,7 @@
 
 #Тема 4.  Улюблені сюжети в мистецтві. Художник і театр (8 годин)
 
-##Зміст розділу:
-
+**Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu4.md)
 	*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya4.md)
 	*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya4.md)

@@ -1,7 +1,5 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#4 клас. Художній образ в мистецтві
-
 #Тема 3.  Образи природи, тварин, людей у мистецтві (9 годин)
 
 ##Зміст розділу:

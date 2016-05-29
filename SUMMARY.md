@@ -99,4 +99,3 @@
   * [Скульптура](dodatky/skulptura.md)
   * [Декоративно-прикладне мистецтво](dodatky/dpa.md)
   * [Архітектура](dodatky/arkhitektura.md)
-

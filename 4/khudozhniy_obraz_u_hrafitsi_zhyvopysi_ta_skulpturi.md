@@ -1,7 +1,5 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#4 клас. Художній образ в мистецтві
-
 #Тема 1.  Художній образ у графіці, живописі та скульптурі (8 годин)
 
 ##Зміст розділу:

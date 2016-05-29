@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-##Державні вимоги до рівня загальноосвітньої підготовки учнів:
+##Державні вимоги до рівня загальноосвітньої підготовки учнів
 
 <table>
 <tbody>
@@ -8,7 +8,7 @@
 <td style="vertical-align:top !important;">
 <i>Учень (учениця) виявляє (на рівні вікових можливостей):</i><br>
 </td>
-<td>
+<td style="vertical-align:top !important;">
 <li>особистісно-ціннісне ставлення до творів мистецтва та естетичного у житті, прагне до спілкування з ним;</li>
 </td>
 </tr>

@@ -1,7 +1,5 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#1 клас. Абетка образотворчого мистецтва
-
 #Тема 1.  Відтворення простих форм лінією, плямою, в об’ємі (8 годин)
 
 ##Зміст розділу:

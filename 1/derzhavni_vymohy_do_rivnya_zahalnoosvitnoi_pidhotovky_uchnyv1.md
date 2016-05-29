@@ -1,13 +1,13 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-##Державні вимоги до рівня загальноосвітньої підготовки учнів:
+##Державні вимоги до рівня загальноосвітньої підготовки учнів
 
 <table>
 <tbody>
   <tr>
     <td style="vertical-align:top !important;">
 <i>Учень (учениця) відчуває та намагається виразити (мовленнєвими засобами та в образотворчій діяльності):</i><br></td>
-<td><li>емоційне ставлення до краси природних форм;</li></td>
+<td style="vertical-align:top !important;"><li>емоційне ставлення до краси природних форм;</li></td>
 </tr>
 <tr>
     <td style="vertical-align:top !important;">

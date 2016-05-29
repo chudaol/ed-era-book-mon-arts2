@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-##Державні вимоги до рівня загальноосвітньої підготовки учнів:
+##Державні вимоги до рівня загальноосвітньої підготовки учнів
 
 <table>
 <tbody>
@@ -58,7 +58,7 @@
 <td style="vertical-align:top !important;">
 <i>аналізує й інтерпретує (на елементарному рівні та при підтримці вчителя):</i><br>
 </td>
-<td>
+<td style="vertical-align:top !important;">
 <li>твори живопису, графіки, скульптури;</li>
 </td>
 </tr>

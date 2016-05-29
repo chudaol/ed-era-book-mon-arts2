@@ -1,7 +1,5 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#3 клас. У майстернях художників
-
 #Тема 4.  Улюблені сюжети в мистецтві. Художник і театр (8 годин)
 
 ##Зміст розділу:

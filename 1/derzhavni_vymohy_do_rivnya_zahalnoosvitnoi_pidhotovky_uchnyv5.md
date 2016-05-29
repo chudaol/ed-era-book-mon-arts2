@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-##Державні вимоги до рівня загальноосвітньої підготовки учнів:
+##Державні вимоги до рівня загальноосвітньої підготовки учнів
 
 <table>
 <tbody>

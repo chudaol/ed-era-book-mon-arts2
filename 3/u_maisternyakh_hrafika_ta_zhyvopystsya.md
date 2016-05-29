@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-Тема 1.  У майстернях графіка та живописця (8 годин)
+# Тема 1.  У майстернях графіка та живописця (8 годин)
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)

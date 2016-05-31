@@ -14,26 +14,10 @@
 <hr>
 **Зміст розділу:**
 *	[Тема 1.  У майстернях графіка та живописця (8 годин)](u_maisternyakh_hrafika_ta_zhyvopystsya.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya1.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya1.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv1.md)
 *	[Тема 2.  У майстернях скульптора, архітектора і  народних майстрів (7 годин)](u_maisterniakh_skulptora_arkhitektora_i_narodnykh_maistryv.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu2.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya2.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya2.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv2.md)
 *	Узагальнення - 1 година
 *	[Тема 3.  В гостях у художників: пейзажиста, анімаліста, портретиста, майстра натюрморту (9 годин)](v_hostiakh_u_khudozhnykiv_peizazhysta_animalista_portretysta_maistra_natiurmortu.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya3.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya3.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv3.md)
 *	[Тема 4.  Улюблені сюжети в мистецтві. Художник і театр (8 годин)](ulyubleni_siuzhety_v_mystetstvi_khudozhnyk_i_teatr.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu4.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya4.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya4.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
 *	Узагальнення - 2 години
 
 

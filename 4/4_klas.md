@@ -18,26 +18,10 @@
 <hr>
 **Зміст розділу:**
 *	[Тема 1.  Художній образ у графіці, живописі та скульптурі (8 годин)](khudozhniy_obraz_u_hrafitsi_zhyvopysi_ta_skulpturi.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya1.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya1.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv1.md)
 *	[Тема 2.  Художній образ у декоративно-прикладному мистецтві, архітектурі та дизайні  (7 годин)](khudozhniy_obraz_u_dekoratyvno_prykladnomu_mystetstvy_arkhitektury_ta_dyzainy.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu2.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya2.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya2.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv2.md)
 *	Узагальнення - 1 година
 *	[Тема 3.  Образи природи, тварин, людей у мистецтві (9 годин)](obrazy_pryrody_tvaryn_lyudey_u_mystetstvy.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya3.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya3.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv3.md)
 *	[Тема 4.  Образ рідного краю у мистецтві (8 годин)](obraz_ridnoho_kraiu_u_mystetstvi.md)
-	*	[Зміст навчального матеріалу](zmist_navchalnoho_materialu4.md)
-		*	[Орієнтовні тематичні завдання](oriientovny_tematychni_zavdannya4.md)
-		*	[Матеріали та техніка виконання](materialy_ta_tekhnika_vykonannya4.md)
-	*	[Державні вимоги до рівня загальноосвітньої підготовки учнів](derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
 *	Узагальнення - 2 години
 
 

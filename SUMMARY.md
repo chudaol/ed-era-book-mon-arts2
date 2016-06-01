@@ -1,9 +1,12 @@
-# Summary
+### Вступ
 
 * [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
   * [Завдання та умови успішної реалізації курсу](zavdannya_ta_umovy_uspishnoi_realizatsii_kursu.md)
   * [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
+
+### 1 Клас
+
 * [1 клас](1/1_klas.md)
   * [Тема 1.  Відтворення простих форм лінією, плямою, в об’ємі (8 годин)](1/vidtvorennya_prostykh_form_liniieyu_pliamoiu_v_obyemi.md)
     * [Зміст навчального матеріалу](1/zmist_navchalnoho_materialu1.md)
@@ -30,6 +33,9 @@
       * [Орієнтовні тематичні завдання](1/oriientovny_tematychni_zavdannya5.md)
       * [Матеріали та техніка виконання](1/materialy_ta_tekhnika_vykonannya5.md)
     * [Державні вимоги до рівня загальноосвітньої підготовки учнів](1/derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv5.md)
+
+### 2 Клас
+
 * [2 клас](2/2_klas.md)
   * [Тема 1.  Мова графіки та живопису (8 годин)](2/mova_hrafiky_ta_zhyvopysu.md)
     * [Зміст навчального матеріалу](2/zmist_navchalnoho_materialu1.md)
@@ -51,6 +57,9 @@
       * [Орієнтовні тематичні завдання](2/oriientovny_tematychni_zavdannya4.md)
       * [Матеріали та техніка виконання](2/materialy_ta_tekhnika_vykonannya4.md)
     * [Державні вимоги до рівня загальноосвітньої підготовки учнів](2/derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
+
+### 3 Клас
+
 * [3 клас](3/3_klas.md)
   * [Тема 1.  У майстернях графіка та живописця (8 годин)](3/u_maisternyakh_hrafika_ta_zhyvopystsya.md)
     * [Зміст навчального матеріалу](3/zmist_navchalnoho_materialu1.md)
@@ -72,6 +81,9 @@
       * [Орієнтовні тематичні завдання](3/oriientovny_tematychni_zavdannya4.md)
       * [Матеріали та техніка виконання](3/materialy_ta_tekhnika_vykonannya4.md)
     * [Державні вимоги до рівня загальноосвітньої підготовки учнів](3/derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
+
+### 4 Клас
+
 * [4 клас](4/4_klas.md)
   * [Тема 1.  Художній образ у графіці, живописі та скульптурі (8 годин)](4/khudozhniy_obraz_u_hrafitsi_zhyvopysi_ta_skulpturi.md)
     * [Зміст навчального матеріалу](4/zmist_navchalnoho_materialu1.md)
@@ -93,7 +105,10 @@
       * [Орієнтовні тематичні завдання](4/oriientovny_tematychni_zavdannya4.md)
       * [Матеріали та техніка виконання](4/materialy_ta_tekhnika_vykonannya4.md)
     * [Державні вимоги до рівня загальноосвітньої підготовки учнів](4/derzhavni_vymohy_do_rivnya_zahalnoosvitnoi_pidhotovky_uchnyv4.md)
-* [Додаток: Орієнтовний перелік творів образотворчого мистецтва, рекомендованих для сприймання учнями](dodatky/perelik_tvoriv.md)
+
+### Додаток
+
+* [Орієнтовний перелік творів образотворчого мистецтва, рекомендованих для сприймання учнями](dodatky/perelik_tvoriv.md)
   * [Графіка](dodatky/graphika.md)
   * [Живопис](dodatky/zhivopis.md)
   * [Скульптура](dodatky/skulptura.md)

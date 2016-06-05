@@ -35,7 +35,6 @@
 
 Зміст програми {#programa}
 --
-* [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
   * [Завдання та умови успішної реалізації курсу](zavdannya_ta_umovy_uspishnoi_realizatsii_kursu.md)
   * [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
